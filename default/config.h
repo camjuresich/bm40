@@ -1,0 +1,3 @@
+#define COMBO_COUNT 1
+#define ONESHOT_TAP_TOGGLE 0
+#define TAPPING_TERM 175
